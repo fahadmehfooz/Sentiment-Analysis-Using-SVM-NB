@@ -25,7 +25,7 @@
 * Doing a train test split.
 * Plotting precision-recall and roc-auc curves.
 
-![alt text](https://github.com/fahadmehfooz/Malaria-Classification-CNN-Vs-ResNet50-Vs-VGG19-Vs-InceptionV3/blob/main/images/__results___21_1.png)
+![alt text](https://github.com/fahadmehfooz/Sentiment-Analysis-Using-SVM-NB/blob/main/images/__results___20_1.png)
 
 ## Model Building 
 
@@ -43,3 +43,4 @@ Models Used:
 
 **Results:**
 
+![alt text](https://github.com/fahadmehfooz/Sentiment-Analysis-Using-SVM-NB/blob/main/images/accuracies.png)
