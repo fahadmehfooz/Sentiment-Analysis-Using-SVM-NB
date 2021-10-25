@@ -38,6 +38,7 @@ Models Used:
 * Bagging with MultinomialNB as base estimator
 * AdaBoost
 * RandomForest
+* LSTM
 
 ## Model performance
 
